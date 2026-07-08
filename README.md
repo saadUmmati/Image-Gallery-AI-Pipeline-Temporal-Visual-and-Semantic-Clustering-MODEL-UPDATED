@@ -1,0 +1,2 @@
+# Image-Gallery-AI-Pipeline-Temporal-Visual-and-Semantic-Clustering-MODEL-UPDATED
+This notebook demonstrates an end-to-end AI pipeline for organizing large image galleries. It performs memory-efficient batch processing, temporal pre-clustering to group images by event, visual feature extraction with YOLOv8 and MobileNetV3 for look-alike grouping, and semantic clustering using CLIP embeddings for conceptual categorization.
